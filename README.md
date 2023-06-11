@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LSweetSour</h1>
-<h3 align="center">A Taiwanese studying computer science</h3>
+<h3 align="center">A computer science student from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yappy2000d&label=Profile%20views&color=0e75b6&style=flat" alt="yappy2000d" /> </p>
 
