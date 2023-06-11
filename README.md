@@ -3,12 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yappy2000d&label=Profile%20views&color=0e75b6&style=flat" alt="yappy2000d" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://medium.com/@yappy2000d" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yappy2000d" height="30" width="40" />
-  </a>
-</p>
+- 🌱 I’m currently learning **Verilog**
+
+- 📝 I regularly write articles on [blog.yappy2000.com](blog.yappy2000.com)
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
