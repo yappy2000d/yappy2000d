@@ -5,6 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://medium.com/@yappy2000d" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yappy2000d" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages:</h3>
@@ -36,4 +39,4 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yappy2000d&show_icons=true&locale=en&layout=compact" alt="yappy2000d" /></p>
+
