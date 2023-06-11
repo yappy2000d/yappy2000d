@@ -1,4 +1,5 @@
 <h1>👋 Hi, I'm LSweetSour</h1>
+<h3>A computer science student from Taiwan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yappy2000d&label=Profile%20views&color=0e75b6&style=flat" alt="yappy2000d" /> </p>
 
 - 🌱 I’m currently learning **Verilog**
