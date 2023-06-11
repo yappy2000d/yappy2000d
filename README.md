@@ -2,6 +2,8 @@
 <h3>A computer science student from Taiwan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yappy2000d&label=Profile%20views&color=0e75b6&style=flat" alt="yappy2000d" /> </p>
 
+<img src="https://raw.githubusercontent.com/yappy2000d/github-stats-transparent/output/generated/overview.svg" alt="yappy2000d" align="right" />
+
 - 🌱 I’m currently learning **Verilog**
 - 📝 I regularly write articles on [blog.yappy2000.com](blog.yappy2000.com)
 
