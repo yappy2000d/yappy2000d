@@ -6,8 +6,11 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yappy2000d&show_icons=true&locale=en" alt="yappy2000d" /></p>
 
-- 🌱 I’m currently learning <b>Verilog</b></li>
+- 🔭 I'm currently preparing for **final exam**
+- 🌱 I’m currently learning **Verilog**
 - 📝 I write articles on [blog.yappy2000.com](blog.yappy2000.com)
+- 💬 Ask me about **Poems** or **Philosophy**
+- ⚡ Fun fact HDL does **not** works like programming languages
 
 <br />
 
