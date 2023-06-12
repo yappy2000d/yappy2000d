@@ -3,9 +3,12 @@
 
 ![yappy2000d](https://komarev.com/ghpvc/?username=yappy2000d&label=Profile%20views&color=0e75b6&style=flat)
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yappy2000d&show_icons=true&locale=en" alt="yappy2000d" /></p>
 
 - 🌱 I’m currently learning <b>Verilog</b></li>
 - 📝 I occasionally write articles on [blog.yappy2000.com](blog.yappy2000.com)
+
+<br />
 
 > Tools, languages, and other things that I usually work with.
 
