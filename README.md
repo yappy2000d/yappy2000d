@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Verilog**
 - 📝 I write articles on [blog.yappy2000.com](blog.yappy2000.com)
 - 💬 Ask me about **Poems** or **Philosophy**
-- ⚡ Fun fact **HDL doesn't works like PL**
+- ⚡ Fun fact **HDL is very different from PL**
 
 <br />
 
