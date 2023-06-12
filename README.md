@@ -11,7 +11,7 @@
 
 <br />
 
-> Tools, languages, and other things that I usually work with.
+> Tools and Languages I usually work with.
 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <br>Python | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <br>**C++** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <br>**JavaScript** |
 | :----: | :----: | :----: |
