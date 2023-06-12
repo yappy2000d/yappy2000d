@@ -2,6 +2,7 @@
 ### A computer science student from Taiwan
 
 ![yappy2000d](https://komarev.com/ghpvc/?username=yappy2000d&label=Profile%20views&color=0e75b6&style=flat)
+&nbsp;&nbsp;![](https://img.shields.io/github/followers/yappy2000d?style=social)
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yappy2000d&show_icons=true&locale=en" alt="yappy2000d" /></p>
 
