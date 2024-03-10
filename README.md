@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently preparing for **final exam**
 - 🌱 I’m currently learning **Verilog**
-- 📝 I write articles on [blog.yappy2000.com](https://blog.yappy2000.com)
+- 📝 I write articles on [yappy2000.com](https://yappy2000.com)
 - 💬 Ask me about **Poems** or **Philosophy**
 - ⚡ Fun fact **HDL is very different from PL**
 
