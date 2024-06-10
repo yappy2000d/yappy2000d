@@ -6,12 +6,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yappy2000d&show_icons=true&locale=en" alt="yappy2000d" /></p>
 
-- 🔭 I'm currently preparing for **final exam**
-- 🌱 I’m currently learning **Verilog**
 - 📝 I write articles on [yappy2000.com](https://yappy2000.com)
-- 💬 Ask me about **Poems** or **Philosophy**
-- ⚡ Fun fact **HDL is very different from PL**
-
 <br />
 
 > Tools and Languages I usually work with.
