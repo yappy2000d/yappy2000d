@@ -6,7 +6,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yappy2000d&show_icons=true&locale=en" alt="yappy2000d" /></p>
 
-- 📝 I write articles on [yappy2000.com](https://yappy2000.com)
+- 📝 I write articles on <https://blog.yappy2000.com>
 <br />
 
 > Tools and Languages I usually work with.
