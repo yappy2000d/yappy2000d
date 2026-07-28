@@ -8,11 +8,11 @@ An Electronic engineering student from Taiwan.
 
 ### 👤 About Me
 
-Hi there! I'm an EC student who loves hanging around in different communities and making use of programming skills to make things easier or more fun. Before getting into hardware design, I spent a lot of time on software automation and data stuff. I used to hang out a lot in Minecraft modding and localization communities. 
+Hi there! I'm an EC student who loves hanging around in different tech communities and leveraging programming skills to build efficient, fun, and automated solutions.
 
-During 2019 and 2023, I got curious about AI and Machine Learning. Following that, I took a detour into embedded systems and low-level C programming. This gave me a solid grasp of Hardware/Software Co-design. Lately, I’ve been bringing that automation and low-level mindset into digital circuits to speed up my workflow.
+Before diving into hardware design, I spent a lot of time honing my skills in software engineering. I was highly active in Minecraft modding and localization communities, where I primarily contributed to open-source localization projects. Between 2019 and 2023, curiosity led me to explore AI and Machine Learning. Following that, I took a deeper dive into embedded systems and low-level C programming, which gave me a solid grasp of Hardware/Software Co-design.  Lately, I’ve been focusing entirely on digital circuit design.
 
-I’m always happy to connect and make new friends! Whether you want to chat about RTL design, Python scripts, Minecraft modding, or just tech in general, feel free to hit me up. Let's learn and break things together. 🚀
+I’m always down to connect and make new friends! Whether you want to chat about RTL design, Python scripting, Minecraft modding, or tech in general, feel free to hit me up. Let's learn, build, and break things together! 🚀
 
 ---
 
